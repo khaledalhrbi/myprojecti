@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		29296AA11B2B07EB00A3EB7A /* chal1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29296AA01B2B07EB00A3EB7A /* chal1ViewController.swift */; };
 		2936197B1B231931005AB582 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2936197A1B231931005AB582 /* AppDelegate.swift */; };
 		2936197D1B231931005AB582 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2936197C1B231931005AB582 /* ViewController.swift */; };
 		293619801B231931005AB582 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2936197E1B231931005AB582 /* Main.storyboard */; };
@@ -30,6 +31,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		29296AA01B2B07EB00A3EB7A /* chal1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = chal1ViewController.swift; sourceTree = "<group>"; };
 		293619751B231931005AB582 /* khaledbnewapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = khaledbnewapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		293619791B231931005AB582 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2936197A1B231931005AB582 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				2936197A1B231931005AB582 /* AppDelegate.swift */,
 				2936197C1B231931005AB582 /* ViewController.swift */,
 				2936197E1B231931005AB582 /* Main.storyboard */,
+				29296AA01B2B07EB00A3EB7A /* chal1ViewController.swift */,
 				293619A11B234062005AB582 /* secondViewController.swift */,
 				293619811B231931005AB582 /* Images.xcassets */,
 				293619831B231931005AB582 /* LaunchScreen.xib */,
@@ -235,6 +238,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				29296AA11B2B07EB00A3EB7A /* chal1ViewController.swift in Sources */,
 				2936197D1B231931005AB582 /* ViewController.swift in Sources */,
 				293619A21B234062005AB582 /* secondViewController.swift in Sources */,
 				2936197B1B231931005AB582 /* AppDelegate.swift in Sources */,
@@ -431,6 +435,7 @@
 				293619961B231931005AB582 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		293619971B231931005AB582 /* Build configuration list for PBXNativeTarget "khaledbnewappTests" */ = {
 			isa = XCConfigurationList;
@@ -439,6 +444,7 @@
 				293619991B231931005AB582 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
